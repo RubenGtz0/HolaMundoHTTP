@@ -1,0 +1,22 @@
+{
+  "name": "holamundoplano",
+  "version": "1.0.0",
+  "description": "Hola Mundo",
+  "main": "HolaMundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenGtz0/HolaMundoHTTP.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Ruben Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubenGtz0/HolaMundoHTTP/issues"
+  },
+  "homepage": "https://github.com/RubenGtz0/HolaMundoHTTP#readme"
+}
